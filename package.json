@@ -6,6 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "ajv": "^6.10.0",
+    "async": "^2.5.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "4.4.10",
+    "nodemon": "^1.12.1",
+    "require-dir": "^0.3.2",
+    "winston": "^3.2.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ankurmahapatra27/attendanceManagement.git"

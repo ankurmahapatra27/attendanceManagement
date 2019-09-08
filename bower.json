@@ -1,0 +1,18 @@
+{
+  "name": "attendancemanagement",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "ankur <ankurmahapatra90@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/ankurmahapatra27/attendanceManagement",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
